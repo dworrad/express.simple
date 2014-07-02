@@ -1,0 +1,11 @@
+{
+    "name": "Express_HelloWorld",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express":""
+    },
+    "scripts": {
+        
+    }
+}
